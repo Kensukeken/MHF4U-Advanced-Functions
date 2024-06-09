@@ -1,7 +1,8 @@
 # MHF4U Advanced Functions Notes - Night School Semester 2 Spring 2024
 
-Welcome to the MHF4U Advanced Functions Notes repository! This repository contains notes, documents, and resources for the MHF4U (Grade 12 Advanced Functions) course. Whether you're a student looking for extra study materials or an educator seeking supplementary resources, you'll find a variety of helpful content here.
+Welcome to the MHF4U Advanced Functions Notes repository! This repository contains notes, documents, and resources for the MHF4U (Grade 12 Advanced Functions) course. Whether you're a student looking for extra study materials or an educator seeking supplementary resources, you'll find a variety of helpful content here. <br>
 
+Visit the Overleaf on [MHF4U - Advanced-Functions](https://www.overleaf.com/read/qnfbffqxnxzc#478dd5) :)
 ## Contents
 
 - **Docs:** Documents related to the course.
